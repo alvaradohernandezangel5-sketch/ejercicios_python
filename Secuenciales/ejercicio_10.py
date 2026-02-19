@@ -11,4 +11,4 @@ trabajo = float(input("Dame la nota del trabajo: "))
 
 nota = float((parcial11 + parcial12 + parcial13)/3) * 0.55 + 0.3 * examen + 0.15 * trabajo 
 
-print("Nota_final",nota)
+print("Nota_final",nota

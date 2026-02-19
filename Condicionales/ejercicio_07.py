@@ -14,6 +14,6 @@ if exponente > 0:
 	print('La potencia es: ',base ** exponente)
 elif exponente == 0:
 	print('La potencia es 1')
-else:
+else :
 	resultado = 1 / (base ** abs(exponente))
 	print('La potencia es ',1/(base ** abs(exponente)))
